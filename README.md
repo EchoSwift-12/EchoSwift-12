@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Amtul Rahman Sadiya (@EchoSwift-12)
+- 🚀 Aspiring Full-Stack Developer | AI Enthusiast
+- 👀 I’m interested in Web Development and Artificial Intelligence 
+- 🌱 Currently learning React, TypeScript, Next.js, and Data Structures & Algorithms 
+- 💡 Open to collaborations on open-source projects
+- 📝 Sharing my learning journey on LinkedIn & GitHub
+- 📫 Reach me at amtulrahmansadiya@gmail.com
+- 📱 LinkedIn: www.linkedin.com/in/amtul-rahman-sadiya-08bb212a5
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!🎲
+
